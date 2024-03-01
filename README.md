@@ -32,18 +32,29 @@ https://www.facebook.com/ads/library
 
 AI Exchange AI security is OWASP
 https://owaspai.org/
+https://www.osintcombine.com/
+https://elevenlabs.io/
+https://github.com/imartinez/privateGPT
 
-Air Traffic
+## Social Media ##
+* Export Facebook, Instagram, Twitter, Youtube, Tiktok, Vimeo Comments to CSV
+https://exportcomments.com/
+* Facebook Video Downloader
+https://fdown.net/
+
+## Air Traffic ##
 https://adsb.lol/
 https://adsb.one/
 https://theairtraffic.com/
 https://www.flightaware.com/
 https://www.flightradar24.com/
 
+## Astronavigation Techniques to do image geo positioning ##
+The Cross Platform SEP-based Star Extractor and Astrometry.net-Based Internal Astrometric Solver
+https://github.com/rlancaste/stellarsolver
+suncalc.org
+mooncalc.org
 
-https://www.osintcombine.com/
-https://elevenlabs.io/
-https://github.com/imartinez/privateGPT
 
 
 
