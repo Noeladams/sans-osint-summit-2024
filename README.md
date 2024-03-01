@@ -58,7 +58,7 @@ https://www.flightaware.com/
 https://www.flightradar24.com/
 
 ## Astronavigation Techniques to do image geo positioning ##
-* The Cross Platform SEP-based Star Extractor and Astrometry.net-Based Internal Astrometric Solver
+The Cross Platform SEP-based Star Extractor and Astrometry.net-Based Internal Astrometric Solver
 - https://github.com/rlancaste/stellarsolver-
 -  suncalc.org
 - https://geospy.web.app/
