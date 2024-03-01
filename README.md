@@ -38,11 +38,14 @@ https://linktr.ee/snyde21
 - https://www.futuretools.io/?tags-n5zn=ai-detection
 - 
 
-## AI Exchange AI security is OWASP
+## AI security tools ##
 - https://owaspai.org/
 - https://www.osintcombine.com/
 - https://elevenlabs.io/
 - https://github.com/imartinez/privateGPT
+
+- https://lmstudio.ai/
+- https://ollama.com/
 
 ## Social Media ##
 Export Facebook, Instagram, Twitter, Youtube, Tiktok, Vimeo Comments to CSV
