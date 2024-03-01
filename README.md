@@ -66,9 +66,9 @@ Facebook Ads Library
 - mooncalc.org
 - https://geospy.web.app/
 
-  ## Games ##
-  List of OSINT Exercises – Challenge Yourself!
-  - https://gralhix.com/list-of-osint-exercises/
+## Games ##
+ List of OSINT Exercises – Challenge Yourself!
+- https://gralhix.com/list-of-osint-exercises/
 
 
 
