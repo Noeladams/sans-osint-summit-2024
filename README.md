@@ -1,9 +1,17 @@
 # OSINT
+https://pastebin.com/KrceMvR0
 
-OSINT Scanner Site:
+* OSINT Scanner Site:
 https://web-check.as93.net/
 
-https://pastebin.com/KrceMvR0
+## Site Capturing ##
+* SingleFile
+https://github.com/gildas-lormeau/SingleFile
+* FaceCheck ID
+https://facecheck.id/
+* Youtube Data Viewer
+https://citizenevidence.amnestyusa.org/
+
 
 OSINT Links:
 
@@ -50,9 +58,10 @@ https://www.flightaware.com/
 https://www.flightradar24.com/
 
 ## Astronavigation Techniques to do image geo positioning ##
-The Cross Platform SEP-based Star Extractor and Astrometry.net-Based Internal Astrometric Solver
+* The Cross Platform SEP-based Star Extractor and Astrometry.net-Based Internal Astrometric Solver
 https://github.com/rlancaste/stellarsolver
 suncalc.org
+https://geospy.web.app/
 mooncalc.org
 
 
