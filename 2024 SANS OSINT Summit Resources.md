@@ -1,5 +1,12 @@
+
+# nixintel/sansosintsummit2024
+https://github.com/nixintel/sansosintsummit2024/blob/main/Resources.md
+
+
 # OSINT
 https://pastebin.com/KrceMvR0
+
+
 
 * OSINT Scanner Site:
 https://web-check.as93.net/
