@@ -12,6 +12,14 @@ https://facecheck.id/
 * Youtube Data Viewer
 https://citizenevidence.amnestyusa.org/
 
+- https://github.com/hartator/wayback-machine-downloader
+- https://whatsmyname.app
+- Archive Grid https://researchworks.oclc.org/archivegrid/
+- Archives Hub (UK) https://archiveshub.jisc.ac.uk/
+- WorldCat https://search.worldcat.org/
+- National Archives https://www.archives.gov/
+- Library of Congress https://www.loc.gov/
+  
 
 OSINT Links:
 
