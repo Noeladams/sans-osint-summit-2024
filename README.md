@@ -5,14 +5,10 @@
 https://github.com/nixintel/sansosintsummit2024/blob/main/Resources.md
 
 # Other CTI Sources
-- https://github.com/fastfire/deepdarkCTI
 - https://bashinho.de/ | Bashinhos OSINT Tips – #OSINT #BASH #Linux
 - https://github.com/Ginsberg5150?tab=repositories | Ginsberg5150 (Ginsberg5150) / Repositories · GitHub
 - https://you.com/ | Your Personalized AI Assistant.
 - https://overpass-turbo.eu/ | overpass turbo
-- https://elevenlabs.io/ | AI Voice Generator & Text to Speech | ElevenLabs
-- https://github.com/imartinez/privateGPT | GitHub - imartinez/privateGPT: Interact with your documents using the power of GPT, 100% privately, no data leaks
-- https://owaspai.org/ | AI Exchange
 - https://attack.mitre.org/techniques/T1583/008/ | Acquire Infrastructure: Malvertising, Sub-technique T1583.008 - Enterprise | MITRE ATT&CK®
 - https://www.futuretools.io/?tags-n5zn=ai-detection | Future Tools - Find The Exact AI Tool For Your Needs
 - https://start.me/p/zpkMMO/deep-fake-tools-detection | Deep Fake Tools & Detection - start.me
@@ -22,8 +18,6 @@ https://github.com/nixintel/sansosintsummit2024/blob/main/Resources.md
 - https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/ | Build a Custom LLM with Chat With RTX | NVIDIA
 - https://citizenevidence.amnestyusa.org/ | Web Filter Violation
 - https://mattw.io/youtube-metadata/ | MW Metadata
-- https://gralhix.com/list-of-osint-exercises/ | List of OSINT Exercises – Challenge Yourself! – Sofia Santos | OSINT Analysis & Exercises
-- https://preyproject.com/ | Prey: Laptop Tracking & Data security. Find & Protect lost devices.
 - https://www.zotero.org/ | Zotero | Your personal research assistant
 - https://zbib.org/ | ZoteroBib: Fast, free bibliography generator - MLA, APA, Chicago, Harvard citations
 - https://github.com/pedrom34/ZoteroPortable-dev-repo | GitHub - pedrom34/ZoteroPortable-dev-repo: Zotero in PortableApps.com Format - dev repo
@@ -36,7 +30,6 @@ https://github.com/nixintel/sansosintsummit2024/blob/main/Resources.md
 - https://www.mindmanager.com/en/ | Mind Mapping Software by MindManager | MindManager
 - https://evernote.com/ | Best Note Taking App - Organize Your Notes with Evernote
 - https://www.notion.so/ | Your connected workspace for wiki, docs & projects | Notion
-- https://github.com/nixintel/sansosintsummit2024/blob/main/Resources.md | sansosintsummit2024/Resources.md at main · nixintel/sansosintsummit2024 · GitHub
 - https://thispersondoesnotexist.com/ | thispersondoesnotexist.com (1024×1024)
 - https://privacytests.org/ | What are the best private browsers in 2024?
 - https://upload.wikimedia.org/wikipedia/commons/1/18/Cognitive_Bias_Codex_-_180%2B_biases%2C_designed_by_John_Manoogian_III_%28jm3%29.jpg | Cognitive_Bias_Codex_-_180+_biases,_designed_by_John_Manoogian_III_(jm3).jpg (1964×1570)
@@ -49,16 +42,31 @@ https://github.com/nixintel/sansosintsummit2024/blob/main/Resources.md
 - https://www.harisqazi.com/ | Introduction - Portfolio
 - https://inteltechniques.com/book1a.html | IntelTechniques Books
 - https://github.com/harisqazi1 | harisqazi1 (Haris Qazi) · GitHub
-- https://github.com/fastfire/deepdarkCTI | GitHub - fastfire/deepdarkCTI: Collection of Cyber Threat Intelligence sources from the deep and dark web
-
-# OSINT
-https://pastebin.com/KrceMvR0
+- 
+# Device Tracking
+- https://preyproject.com/ | Prey: Laptop Tracking & Data security. Find & Protect lost devices.
 
 # 
-- (Extract and Visualized Data from URLs) https://dfir.blog/unfurl/
-- (Dumping data from React) https://github.com/janhalendk/react
+- https://dfir.blog/unfurl/ | Extract and Visualized Data from URLs
+- https://github.com/janhalendk/react | Dumping data from React
 
+# OSINT Intelligence Resources
 
+- Brad Snyder (Linktree) | https://linktr.ee/snyde21
+- https://github.com/fastfire/deepdarkCTI | GitHub - fastfire/deepdarkCTI: Collection of Cyber Threat Intelligence sources from the deep and dark web
+- https://start.me/p/DPYPMz/the-ultimate-osint-collection
+- https://github.com/cipher387/osint_stuff_tool_collection | cipher387/osint_stuff_tool_collection
+- https://whatsmyname.app
+- Archive Grid https://researchworks.oclc.org/archivegrid/
+- Archives Hub (UK) https://archiveshub.jisc.ac.uk/
+- WorldCat https://search.worldcat.org/
+- National Archives https://www.archives.gov/
+- Library of Congress https://www.loc.gov/
+- https://www.sans.org/blog/how-to-get-into-osint/
+- https://spicysecurityninja.medium.com/wigle-with-m5stack-atom-gps-kit-and-atomgps-wigler-011f0fe06d41 (WIFI OSINT)
+- https://skullgames.io/
+- https://bashinho.de/ (German)
+- https://www.futuretools.io/?tags-n5zn=ai-detection
 
 * OSINT Scanner Site:
 https://web-check.as93.net/
@@ -70,41 +78,18 @@ https://github.com/gildas-lormeau/SingleFile
 https://facecheck.id/
 * Youtube Data Viewer
 https://citizenevidence.amnestyusa.org/
-
-- https://github.com/hartator/wayback-machine-downloader
-- https://whatsmyname.app
-- Archive Grid https://researchworks.oclc.org/archivegrid/
-- Archives Hub (UK) https://archiveshub.jisc.ac.uk/
-- WorldCat https://search.worldcat.org/
-- National Archives https://www.archives.gov/
-- Library of Congress https://www.loc.gov/
-- https://www.sans.org/blog/how-to-get-into-osint/
-- https://spicysecurityninja.medium.com/wigle-with-m5stack-atom-gps-kit-and-atomgps-wigler-011f0fe06d41 (WIFI OSINT)
-- https://github.com/cipher387/osint_stuff_tool_collection
-- https://start.me/p/DPYPMz/the-ultimate-osint-collection
-- https://skullgames.io/
-- https://bashinho.de/ (German)
-- https://www.futuretools.io/?tags-n5zn=ai-detection
-
   
-Intel Analysis & OSINT Books/Papers/Articles
-https://docs.google.com/spreadsheets/d/1ruxNKVkhVCZgnVzidhp---ly6KnVCFsnUBj27R-P8Ks/edit#gid=0
-
-cipher387/osint_stuff_tool_collection
-https://github.com/cipher387/osint_stuff_tool_collection
-
-Brad Snyder (Linktree)
-- https://linktr.ee/snyde21
+# Intel Analysis & OSINT Books/Papers/Articles
+- https://docs.google.com/spreadsheets/d/1ruxNKVkhVCZgnVzidhp---ly6KnVCFsnUBj27R-P8Ks/edit#gid=0
 
 ## AI security tools ##
-- https://owaspai.org/
 - https://www.osintcombine.com/
-- https://elevenlabs.io/
-- https://github.com/imartinez/privateGPT
+- https://elevenlabs.io/ | AI Voice Generator & Text to Speech | ElevenLabs
+- https://github.com/imartinez/privateGPT | GitHub - imartinez/privateGPT: Interact with your documents using the power of GPT, 100% privately, no data leaks
 - https://huggingface.co/WhiteRabbitNeo/WhiteRabbitNeo-13B-v1
-
 - https://lmstudio.ai/
 - https://ollama.com/
+- https://owaspai.org/ | AI Exchange
 
 ## Social Media ##
 Export Facebook, Instagram, Twitter, Youtube, Tiktok, Vimeo Comments to CSV
