@@ -1,3 +1,4 @@
+## Sources gathered from presentations and other users who were in the slack channel ##
 
 # nixintel/sansosintsummit2024
 https://github.com/nixintel/sansosintsummit2024/blob/main/Resources.md
